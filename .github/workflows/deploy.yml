@@ -22,4 +22,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: rezedevkos2026/kos-server2026:latest
+          tags: rezedevkos2026/kos-server2026:v1.0.0
